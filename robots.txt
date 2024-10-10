@@ -1,0 +1,3 @@
+User-agent: *
+Allow: *
+Sitemap: https://rabonalivecasino.com/sitemap_index.xml
